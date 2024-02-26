@@ -1,0 +1,24 @@
+.animated-text{
+    font-size: 3em;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    text-shadow: 0 0 10px #000;
+    animation: text-shadow 1s infinite;
+    
+}
+.image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    background: url('https://az505806.vo.msecnd.net/cms/9306e630-bd93-49ac-b104-7da72094650b/78d42a97-faa3-4de9-8dc9-35b0173c4d58-lg.png?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3f3b3b 100% 100% no-repeat');
+    background-size: cover;
+}
+
+.navitems{
+    margin: 0px 10px;
+    font-size: 18px;
+}

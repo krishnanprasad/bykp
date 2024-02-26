@@ -1,0 +1,49 @@
+<!-- FILEPATH: /d:/Krishnan/Learning/byKP/Website/website-bykp/src/app/Pages/test-page/test-page.component.html -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Test Page</title>
+    <style>
+      #timer {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        font-size: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="timer"></div>
+    <h1>Question Paper Title</h1>
+    <p>{{ timerClock }}</p>
+    <div>
+      <input type="button" class="btn-warning" (click)="onStartTimer()" />
+    </div>
+    <p></p>
+    <div>
+      <h2>Question 1</h2>
+      <p>Question 1 text goes here...</p>
+      <ul>
+        <li *ngFor="let question of questions; let i = index">
+          <h2>{{ question.question }}</h2>
+          <p>{{ question.text }}</p>
+          <ul>
+            <li *ngFor="let option of question.options; let j = index">
+              <input
+                type="radio"
+                (click)="onAnswerSelected(question, option)"
+                name="question{{ i }}"
+                id="{{ option.option }}"
+                value="{{ option.option }}"
+              />
+              <label for="{{ option.option }}">{{ option.label }}</label>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+
+    <button>Submit</button>
+  </body>
+</html>
