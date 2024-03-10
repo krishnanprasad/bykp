@@ -4,6 +4,9 @@ import { InterviewQuestionsComponent } from './Pages/interview-questions/intervi
 import { TestPageComponent } from './Pages/test-page/test-page.component';
 import { JobRolesComponent } from './Pages/job-roles/job-roles.component';
 import { HomeComponent } from './Pages/home/home.component';
+import { ProjectsComponent } from './Pages/projects/projects.component';
+import { ProjectDetailComponent } from './Pages/project-detail/project-detail.component';
+import { JobRoleDetailComponent } from './Pages/job-role-detail/job-role-detail.component';
 
 const routes: Routes = [
   {
@@ -25,6 +28,18 @@ const routes: Routes = [
   {
     path: 'jobroles',
     component: JobRolesComponent,
+  },
+  {
+    path: 'projects',
+    component: ProjectsComponent,
+  },
+  {
+    path: 'projectdetail/:id',
+    component: ProjectDetailComponent,
+  },
+  {
+    path: 'jobroledetail/:id',
+    component: JobRoleDetailComponent,
   },
   {
     path: '#',

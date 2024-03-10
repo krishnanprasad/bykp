@@ -1,0 +1,277 @@
+[
+  {
+    "RoleName": "Business Analyst",
+    "RoleId": "BA001",
+    "WhatIs": "Business Analysts analyze and interpret business data to provide insights and recommendations for improving processes, strategies, and overall business performance.",
+    "SkillsRequired": [
+      "Data Analysis",
+      "Requirements Gathering",
+      "Business Process Modeling",
+      "Communication"
+    ],
+    "Workflow": [
+      "Requirements Gathering: Collaborating with stakeholders to understand and document business needs.",
+      "Data Analysis: Analyzing and interpreting data to identify trends, patterns, and insights.",
+      "Business Process Modeling: Creating models to represent and optimize business processes.",
+      "Communication: Effectively communicating findings and recommendations to both technical and non-technical stakeholders."
+    ],
+    "Certification": "Certified Business Analysis Professional (CBAP)",
+    "QualificationRequired": "Bachelors degree in Business, Information Technology, or a related field.",
+    "AverageSalary": {
+      "Minimum": 500000,
+      "Maximum": 1200000
+    },
+    "DifferentRoleTerms": [
+      "Business Systems Analyst",
+      "Business Process Analyst",
+      "Requirements Analyst"
+    ],
+    "RoleCategory": "Development/Sales/Marketing/Finance/Accounts/HR",
+    "Shift": "Day",
+    "Industry": "All"
+  },
+  {
+    "RoleName": "Data Analyst",
+    "RoleId": "BA002",
+    "WhatIs": "Data Analysts work with data to extract valuable insights and support decision-making processes within an organization.",
+    "SkillsRequired": ["Data Analysis", "SQL", "Excel", "Data Visualization"],
+    "Workflow": [
+      "Data Collection: Gathering data from various sources, including databases, spreadsheets, and external APIs.",
+      "Data Cleaning and Processing: Cleaning and organizing raw data to ensure accuracy and consistency.",
+      "Data Analysis: Performing statistical analysis and using data analysis tools to identify trends and patterns.",
+      "Report Generation: Preparing and presenting reports to communicate findings to stakeholders."
+    ],
+    "Certification": "Certified Analytics Professional (CAP)",
+    "QualificationRequired": "Bachelors degree in a relevant field such as Statistics, Mathematics, Computer Science, or Business.",
+    "AverageSalary": {
+      "Minimum": 400000,
+      "Maximum": 1000000
+    },
+    "DifferentRoleTerms": ["Business Analyst", "Analytics Specialist"],
+    "RoleCategory": "Development/Sales/Marketing/Finance/Accounts/HR",
+    "Shift": "Day",
+    "Industry": "All"
+  },
+  {
+    "RoleName": "Angular Front End Developer",
+    "RoleId": "BA003",
+    "WhatIs": "Angular Front End Developers design and develop user interfaces for web applications using the Angular framework.",
+    "SkillsRequired": [
+      "Angular",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Responsive Design"
+    ],
+    "Workflow": [
+      "UI/UX Design: Collaborating with designers to create visually appealing and user-friendly interfaces.",
+      "Angular Development: Writing code using Angular to implement interactive features and components.",
+      "Testing: Conducting unit testing and debugging to ensure the functionality and performance of the application.",
+      "Collaboration: Working closely with back-end developers and other team members to integrate front-end components with back-end services."
+    ],
+    "Certification": "Angular Certified Developer",
+    "QualificationRequired": "Bachelor degree in Computer Science, Information Technology, or a related field.",
+    "AverageSalary": {
+      "Minimum": 600000,
+      "Maximum": 1500000
+    },
+    "DifferentRoleTerms": [
+      "Front End Developer",
+      "Angular Developer",
+      "UI Developer"
+    ],
+    "RoleCategory": "Development",
+    "Shift": "Day",
+    "Industry": "All"
+  },
+  {
+    "RoleName": "React Front End Developer",
+    "RoleId": "BA004",
+    "WhatIs": "React Front End Developers design and implement user interfaces for web applications using the React.js library.",
+    "SkillsRequired": [
+      "React.js",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Responsive Design"
+    ],
+    "Workflow": [
+      "UI/UX Design: Collaborating with design teams to create visually appealing and intuitive user interfaces.",
+      "React Development: Writing code in React.js to build interactive and dynamic web applications.",
+      "State Management: Implementing state management solutions for efficient data handling within the application.",
+      "Collaboration: Working closely with back-end developers and other team members to integrate front-end components with back-end services."
+    ],
+    "Certification": "React Developer Certification",
+    "QualificationRequired": "Bachelors degree in Computer Science, Information Technology, or a related field.",
+    "AverageSalary": {
+      "Minimum": 600000,
+      "Maximum": 1500000
+    },
+    "DifferentRoleTerms": [
+      "Front End Developer",
+      "React Developer",
+      "UI Developer"
+    ],
+    "RoleCategory": "Development",
+    "Shift": "Day",
+    "Industry": "All"
+  },
+  {
+    "RoleName": "DEIB Officer (Diversity, Equity, Inclusion, and Belonging Officer)",
+    "WhatIs": "A DEIB Officer, or Diversity, Equity, Inclusion, and Belonging Officer, is responsible for fostering a diverse, equitable, and inclusive workplace environment. They develop and implement strategies, policies, and programs to promote diversity and inclusion within an organization, aiming to create a culture where all employees feel valued, respected, and supported.",
+    "SkillsRequired": "Strong communication and interpersonal skills, cultural competence, knowledge of diversity and inclusion best practices, ability to develop and deliver training programs, experience in policy development and implementation, and a passion for social justice and equity.",
+    "Workflow": "In a Pizza Shop analogy, a DEIB Officer would be akin to the manager who ensures that the pizza shop is welcoming to people from all backgrounds. They develop recipes (policies and programs) that cater to diverse tastes, train staff (employees) on cultural sensitivity, and create an inclusive atmosphere where everyone feels like they belong. They collaborate with HR (headquarters) to address any concerns and continuously improve the shops diversity and inclusion efforts.",
+    "Certification": "Certified Diversity Professional (CDP)",
+    "QualificationRequired": "Bachelors degree in Human Resources, Organizational Psychology, Social Sciences, or a related field. Additional certifications or training in diversity, equity, and inclusion are often preferred.",
+    "AverageSalary": { "Minimum": 800000, "Maximum": 1500000 },
+    "DifferentRoleTerms": [
+      "Diversity Officer",
+      "Inclusion Officer",
+      "Belonging Officer"
+    ],
+    "RoleCategory": "HR",
+    "Shift": "Day",
+    "Industry": "All"
+  },
+  {
+    "RoleName": "HR Manager",
+    "WhatIs": "An HR Manager is responsible for overseeing all aspects of human resources management within an organization. This includes recruitment, employee relations, performance management, training and development, compensation and benefits administration, HR policies implementation, and ensuring legal compliance.",
+    "SkillsRequired": "Strong communication and interpersonal skills, leadership abilities, conflict resolution skills, knowledge of employment laws and regulations, strategic thinking, decision-making capabilities, and proficiency in HRIS (Human Resources Information Systems) software.",
+    "Workflow": "In a Pizza Shop analogy, an HR Manager would be akin to the restaurant manager who oversees all operations within the restaurant. They handle recruitment (hiring new staff), ensure employee satisfaction (ensuring a positive work environment), manage conflicts (resolving customer complaints or staff issues), implement policies and procedures (maintaining cleanliness and safety standards), and handle administrative tasks (managing inventory and finances). They collaborate with department heads (chefs, waitstaff, etc.) to ensure smooth operations and customer satisfaction.",
+    "Certification": "Professional in Human Resources (PHR) Certification",
+    "QualificationRequired": "Bachelor's degree in Human Resources, Business Administration, or related field. Master's degree and relevant experience may be preferred for some positions.",
+    "AverageSalary": { "Minimum": 800000, "Maximum": 2000000 },
+    "DifferentRoleTerms": [
+      "Human Resources Director",
+      "HR Business Partner",
+      "Talent Acquisition Manager"
+    ],
+    "RoleCategory": "HR",
+    "Shift": "Day",
+    "Industry": "All"
+  },
+  {
+    "RoleName": "HR Director",
+    "WhatIs": "An HR Director is a senior-level professional responsible for overseeing all aspects of the human resources function within an organization. They develop and implement HR strategies aligned with the organization's goals, manage recruitment and retention efforts, ensure compliance with employment laws and regulations, and provide guidance on employee relations, performance management, and organizational development.",
+    "SkillsRequired": "Strong leadership and communication skills, strategic thinking, knowledge of employment laws and regulations, experience in talent management, performance evaluation, and conflict resolution. Additionally, expertise in organizational development, change management, and HR technology systems is valuable.",
+    "Workflow": "In a Pizza Shop analogy, an HR Director would be akin to the restaurant manager who oversees all operations within the establishment. They develop the menu (HR policies and procedures), hire and train staff (recruitment and onboarding), manage inventory (employee data and benefits), ensure customer satisfaction (employee engagement and relations), and handle any issues that arise in the restaurant (conflict resolution and compliance).",
+    "Certification": "Senior Professional in Human Resources (SPHR)",
+    "QualificationRequired": "Bachelor's or Master's degree in Human Resources, Business Administration, or related field. Relevant certifications and extensive experience in HR management are often required.",
+    "AverageSalary": { "Minimum": 2000000, "Maximum": 4000000 },
+    "DifferentRoleTerms": ["HR Manager", "Human Resources Director"],
+    "RoleCategory": "HR",
+    "Shift": "Day",
+    "Industry": "Various (found in almost all industries)"
+  },
+  {
+    "RoleName": "HR Assistant",
+    "WhatIs": "An HR Assistant provides administrative support to the human resources department. They assist in various HR functions, such as recruitment, employee onboarding, maintaining personnel records, scheduling interviews, and handling employee inquiries. They often serve as the first point of contact for employees regarding HR-related matters.",
+    "SkillsRequired": "Strong organizational and communication skills, attention to detail, ability to maintain confidentiality, proficiency in office software (e.g., Microsoft Office suite), knowledge of HR processes and regulations, and a customer-oriented approach.",
+    "Workflow": "In a Pizza Shop analogy, an HR Assistant would be similar to a cashier or front desk staff. They greet customers (employees) as they enter, handle inquiries and orders (HR-related tasks), process payments (maintain records and payroll), and ensure a smooth flow of operations (assisting with HR processes). They collaborate with HR managers (head chef) to ensure all tasks are completed efficiently.",
+    "Certification": "Professional in Human Resources (PHR) Certification",
+    "Qualification Required": "Bachelor's degree in Human Resources Management, Business Administration, or related field. Some positions may require relevant experience in an administrative role.",
+    "AverageSalary": { "Minimum": 300000, "Maximum": 600000 },
+    "DifferentRoleTerms": [
+      "HR Coordinator",
+      "HR Administrator",
+      "Human Resources Specialist"
+    ],
+    "RoleCategory": "HR",
+    "Shift": "Day",
+    "Industry": "Various (found in almost all industries)"
+  },
+  {
+    "RoleName": "Employee Relations Manager",
+    "WhatIs": "An Employee Relations Manager is responsible for overseeing the relationship between employees and the organization, focusing on fostering a positive work environment, resolving conflicts, and ensuring compliance with employment laws and regulations. They act as a bridge between management and employees, addressing grievances, conducting investigations, and providing guidance on HR policies and procedures.",
+    "SkillsRequired": "Strong interpersonal and communication skills, conflict resolution abilities, knowledge of employment laws and regulations, experience in HR policies and procedures, organizational and problem-solving skills, and the ability to maintain confidentiality.",
+    "Workflow": "In a Pizza Shop analogy, an Employee Relations Manager would be similar to the restaurant manager who ensures smooth operations in the restaurant. They handle customer (employee) complaints, resolve conflicts among staff (employees), enforce restaurant policies (HR policies), and ensure compliance with health and safety regulations (employment laws). They collaborate with the HR department (headquarters) to address broader issues and maintain a positive work environment.",
+    "Certification": "Professional in Human Resources (PHR) certification",
+    "QualificationRequired": "Bachelor's degree in Human Resources, Business Administration, Psychology, or related field. Master's degree or HR certification may be preferred for senior positions.",
+    "AverageSalary": { "Minimum": 800000, "Maximum": 1500000 },
+    "DifferentRoleTerms": [
+      "HR Manager",
+      "Employee Engagement Specialist",
+      "Labor Relations Specialist"
+    ],
+    "RoleCategory": "HR",
+    "Shift": "Day",
+    "Industry": "Human Resources"
+  },
+  {
+    "RoleName": "HR Generalist",
+    "WhatIs": "An HR Generalist is versatile human resources professional responsible for a wide range of HR tasks within an organization. They handle various aspects of HR functions, including recruitment, employee relations, performance management, benefits administration, HR policy enforcement, and compliance.",
+    "SkillsRequired": "Strong interpersonal and communication skills, knowledge of HR policies and procedures, experience in recruitment and onboarding processes, ability to handle employee relations issues effectively, understanding of labor laws and regulations, proficiency in HRIS (Human Resources Information Systems) software, and problem-solving abilities.",
+    "Workflow": "In a Pizza Shop analogy, an HR Generalist would function as the manager overseeing the entire operation. They coordinate with different teams (departments) to ensure smooth functioning, handle customer (employee) complaints, manage inventory (employee records), recruit and train staff (hiring and onboarding), and enforce policies (maintain standards and compliance).",
+    "Certification": "Professional in Human Resources (PHR) Certification",
+    "QualificationRequired": "Bachelor's degree in Human Resources, Business Administration, or related field; additional HR certifications or Master's degree may be preferred by some employers.",
+    "AverageSalary": { "Minimum": 400000, "Maximum": 800000 },
+    "DifferentRoleTerms": ["HR Specialist", "HR Coordinator", "HR Manager"],
+    "RoleCategory": "HR",
+    "Shift": "Day",
+    "Industry": "Various (found in almost every industry)"
+  },
+  {
+    "RoleName": "Recruiter",
+    "WhatIs": "A Recruiter is responsible for sourcing, screening, and hiring candidates to fill job positions within an organization. They collaborate with hiring managers to understand job requirements, attract suitable candidates through various channels, conduct interviews, and facilitate the hiring process.",
+    "SkillsRequired": "Excellent communication and interpersonal skills, ability to multitask and prioritize, familiarity with applicant tracking systems (ATS), knowledge of recruitment techniques and sourcing strategies, understanding of employment laws and regulations, and strong negotiation skills.",
+    "Workflow": "In a Pizza Shop analogy, a Recruiter would be similar to the front-of-house staff who takes orders (job requirements) from customers (hiring managers), advertises specials (job postings) to attract diners (candidates), conducts interviews (takes orders), and ensures a smooth dining experience (hiring process) for both customers and kitchen staff (new hires).",
+    "Certification": "Professional in Human Resources (PHR) certification",
+    "QualificationRequired": "Bachelor's degree in Human Resources, Business Administration, or related field.",
+    "AverageSalary": { "Minimum": 400000, "Maximum": 800000 },
+    "DifferentRoleTerms": [
+      "Talent Acquisition Specialist",
+      "HR Recruiter",
+      "Staffing Coordinator"
+    ],
+    "RoleCategory": "HR",
+    "Shift": "Day",
+    "Industry": "Human Resources"
+  },
+  {
+    "RoleName": "Chief Human Resources Officer (CHRO)",
+    "WhatIs": "A Chief Human Resources Officer (CHRO) is a C-level executive responsible for overseeing all aspects of an organization's human resources function. They develop and implement HR strategies aligned with the company's goals, manage workforce planning and talent acquisition, oversee employee relations and performance management, and ensure compliance with employment laws and regulations. Additionally, CHROs play a crucial role in shaping the organizational culture and fostering employee engagement and development.",
+    "SkillsRequired": "Strong leadership and strategic planning abilities, excellent communication and interpersonal skills, deep understanding of HR principles and practices, knowledge of labor laws and regulations, experience in organizational development and change management, and proficiency in data-driven decision-making.",
+    "Workflow": "In a Pizza Shop analogy, a CHRO would be akin to the restaurant owner who oversees all operations, including managing staff, ensuring customer satisfaction, and maintaining compliance with health and safety regulations. They work closely with managers (department heads) to address staffing needs, handle employee issues, and develop strategies for improving overall performance and efficiency.",
+    "Certification": "Senior Professional in Human Resources (SPHR) certification",
+    "QualificationRequired": "Bachelor's or Master's degree in Human Resources, Business Administration, Organizational Psychology, or a related field. MBA or relevant professional certifications are often preferred.",
+    "AverageSalary": { "Minimum": 2500000, "Maximum": 6000000 },
+    "DifferentRoleTerms": ["HR Director", "Vice President of Human Resources"],
+    "RoleCategory": "HR",
+    "Shift": "Day",
+    "Industry": "Various (Found in virtually all industries)"
+  },
+  {
+    "RoleName": "HRIS Specialist",
+    "WhatIs": "An HRIS (Human Resources Information Systems) Specialist is responsible for managing and maintaining the HRIS software and databases within an organization. They ensure that employee data is accurately recorded, processed, and stored securely. Additionally, they may be involved in configuring and customizing the HRIS system to meet the organization's specific needs and providing support and training to HR staff and end-users.",
+    "SkillsRequired": "Proficiency in HRIS software such as SAP SuccessFactors, Workday, Oracle HCM, or similar systems. Strong analytical skills, attention to detail, and knowledge of HR processes and regulations. Additionally, good communication and interpersonal skills are essential for collaborating with HR staff and other stakeholders.",
+    "Workflow": "In a Pizza Shop analogy, an HRIS Specialist would be akin to the manager who oversees the ordering and inventory management system (HRIS software) in the back office. They ensure that all orders (employee data) are accurately recorded, manage inventory (employee records), and troubleshoot any issues with the system to ensure smooth operations. They also provide training to staff on how to use the system effectively.",
+    "Certification": "HRIS Certification",
+    "QualificationRequired": "Bachelor's degree in Human Resources, Information Technology, Business Administration, or a related field.",
+    "AverageSalary": { "Minimum": 800000, "Maximum": 1500000 },
+    "DifferentRoleTerms": [
+      "HR Systems Specialist",
+      "HRIS Administrator",
+      "HRIS Analyst"
+    ],
+    "RoleCategory": "HR",
+    "Shift": "Day",
+    "Industry": "Human Resources"
+  },
+  {
+    "RoleName": "Training Coordinator",
+    "WhatIs": "A Training Coordinator is responsible for organizing and facilitating training programs within an organization. They collaborate with various departments to assess training needs, develop training materials, schedule sessions, and evaluate the effectiveness of training initiatives. Additionally, they may provide administrative support for training activities and maintain training records.",
+    "SkillsRequired": "Excellent organizational and communication skills, ability to multitask and prioritize tasks effectively, attention to detail, proficiency in Microsoft Office or similar software for creating training materials and managing documentation, understanding of adult learning principles, and experience with learning management systems (LMS) is beneficial.",
+    "Workflow": "In a Pizza Shop analogy, a Training Coordinator would be akin to the manager who oversees the training program. They coordinate with different teams (kitchen staff, servers, etc.) to identify training needs (ingredients required for each dish), develop training materials (recipes), schedule training sessions (cooking times), and assess the effectiveness of training (customer feedback). They ensure that all staff members are well-trained to deliver high-quality service.",
+    "Certification": "Certified Training Professional (CTP)",
+    "QualificationRequired": "Bachelor's degree in Human Resources, Education, Business Administration, or a related field. Prior experience in training coordination or human resources may be preferred.",
+    "AverageSalary": { "Minimum": 400000, "Maximum": 800000 },
+    "DifferentRoleTerms": [
+      "Learning and Development Coordinator",
+      "Training Specialist",
+      "Education Coordinator"
+    ],
+    "RoleCategory": "HR",
+    "Shift": "Day",
+    "Industry": "All"
+  }
+]

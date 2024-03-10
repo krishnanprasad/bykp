@@ -55,14 +55,12 @@ export class TestPageComponent {
   }
 
   onAnswerSelected(question: any, option: any) {
-    debugger;
     question.selectedOption = option;
     this.AnsweredQuestions = [
       { question: question.questiondid, option: option.label },
     ];
   }
   onAnswerChanged(question: any, option: any) {
-    debugger;
     question.selectedOption = option;
     this.AnsweredQuestions = [
       { question: question.questiondid, option: option.label },

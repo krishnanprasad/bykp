@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "projectname": "Calculator App",
+    "projectsubject": "Create a Calculator App using Angular and TypeScript with 5 Functionalities",
+    "techstack": "HTML, CSS, Java",
+    "duration": "2 months",
+    "maxteamsize": 5,
+    "difficulty": "Hard",
+    "teamstructure": "3 Developers, 1 Tester, 1 Designer"
+  },
+  {
+    "id": "2",
+    "projectname": "Weather App",
+    "projectsubject": "Create a Weather App using Angular and TypeScript with 5 Functionalities",
+    "techstack": "HTML, CSS, TypeScript,MongoDB",
+    "duration": "2 months",
+    "maxteamsize": 5,
+    "difficulty": "Easy",
+    "teamstructure": "3 Developers, 1 Tester, 1 Designer"
+  },
+  {
+    "id": "3",
+    "projectname": "E-commerce App",
+    "projectsubject": "Create a E-commerce App using Angular and TypeScript with 5 Functionalities",
+    "techstack": "HTML, CSS, TypeScript",
+    "duration": "2 months",
+    "maxteamsize": 5,
+    "difficulty": "Easy",
+    "teamstructure": "3 Developers, 1 Tester, 1 Designer"
+  },
+  {
+    "id": "4",
+    "projectname": "Chat App",
+    "projectsubject": "Create a Chat App using Angular and TypeScript with 5 Functionalities",
+    "techstack": "HTML, CSS, TypeScript,MongoDB",
+    "duration": "2 months",
+    "maxteamsize": 5,
+    "difficulty": "Normal",
+    "teamstructure": "3 Developers, 1 Tester, 1 Designer"
+  }
+]

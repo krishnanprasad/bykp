@@ -4,10 +4,11 @@
       <div style="margin-top: 20px">
         <h5>Filters</h5>
       </div>
-
+     
+    
       <!-- CHECKBOX -->
-      <div style="margin-top: 20px">
-        <span style="display: block">Difficutly</span>
+      <div style="margin-top: 20px;">
+        <span style="display: block;">Difficutly</span>
         <div
           *ngFor="let checkbox of checkboxes; let i = index"
           class="CheckBoxDesign"
@@ -26,8 +27,9 @@
       </div>
       <!-- CLOSE CHECK BOX -->
 
-      <div style="margin-top: 80px">
-        <span style="display: block">Search by Tech</span>
+      <!-- TECH STACK SEARCH -->
+      <div style="margin-top:80px">
+        <span style="display: block;">Search by Tech</span>
 
         <input
           type="text"
@@ -49,7 +51,7 @@
               font-size: larger;
               border-bottom: 1px solid #ebebeb;
             "
-            (click)="filterInterviewListList(techlist)"
+            (click)="filterProjectList(techlist)"
             *ngFor="let techlist of filteredTechStackList"
             >{{ techlist }}</span
           >
@@ -85,25 +87,34 @@
       </div>
     </div>
     <div class="col-md-9 col-9" style="margin-bottom: 20px">
-      <div *ngFor="let questions of filteredinterviewQuestions">
-        <div class="services-thumb-card services-thumb-cardblock">
-          <div
-            class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3"
-          >
-            <h3 class="mb-0">{{ questions.title }}</h3>
-            <div class="services-price-wrap ms-auto">
-              <p class="services-price-text mb-0">{{ questions.difficulty }}</p>
-              <div class="services-price-overlay"></div>
-            </div>
+      <div
+        *ngFor="let project of filteredProject"
+        class="services-thumb-card services-thumb-cardblock"
+        (click)="showProjectDetails(project)"
+      >
+        <div
+          class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3"
+        >
+          <h3 class="mb-0">{{ project.projectname }}</h3>
+          <div class="services-price-wrap ms-auto">
+            <p class="services-price-text mb-0">{{ project.difficulty }}</p>
+            <div class="services-price-overlay"></div>
           </div>
-          <p>{{ questions.description }}</p>
-          <span style="display: block">{{ questions.duration }}</span>
-          <a
-            (click)="goToLink(questions.questionurl)"
-            class="custom-btn custom-border-btn btn mt-3"
-            >Write Test</a
+        </div>
+        <p>
+          {{ project.projectsubject }}
+        </p>
+        <div style="display: block">
+          <span
+            style="margin-right: 10px; padding: 5px 10px"
+            class="badge text-bg-success"
+            *ngFor="let techstack of project.techstack | commaToArray"
+            >{{ techstack }}</span
           >
         </div>
+        <a href="#" class="custom-btn custom-border-btn btn mt-3"
+          >Discover More</a
+        >
       </div>
     </div>
   </div>

@@ -8,7 +8,6 @@ import { Location } from '@angular/common';
 })
 export class AppComponent {
   changeClassNameOfAnchorTagWithRespectoHrefValue() {
-    debugger;
     const anchorTags = document.querySelectorAll('a');
     anchorTags.forEach((tag) => {
       if (tag.getAttribute('href') === this.location.path()) {

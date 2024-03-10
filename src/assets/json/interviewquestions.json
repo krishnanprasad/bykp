@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Angular - Fresher",
+    "id": "1",
+    "description": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your apps.",
+    "difficulty": "Easy",
+    "techstack": "Angular",
+    "duration": 10,
+    "questionurl": "https://forms.gle/S1SD5SdhsokYpng56"
+  },
+  {
+    "title": "Angular - Fresher",
+    "id": "2",
+    "description": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your apps.",
+    "difficulty": "Moderate",
+    "techstack": "Angular",
+    "duration": 10,
+    "questionurl": "https://forms.gle/6qaLCpkKJ566CtNW7"
+  },
+  {
+    "title": "Angular - Fresher",
+    "id": "3",
+    "description": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your apps.",
+    "difficulty": "Hard",
+    "techstack": "Angular",
+    "duration": 10,
+    "questionurl": "https://forms.gle/8xLV1Ky2ZSpzTzTQ7"
+  }
+]
